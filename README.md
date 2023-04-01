@@ -1,4 +1,4 @@
-# NowFloats-task
+# NowFloats Weather App
 
 # Description
 
