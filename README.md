@@ -6,7 +6,7 @@ The project is a weather application that allows users to view the current weath
 
 # hosted link
 
-https://resonant-fox-dafe82.netlify.app/
+https://nowfloats-task24.netlify.app/
 
 # Getting Started with Create React App
 
