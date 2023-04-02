@@ -4,6 +4,10 @@
 
 The project is a weather application that allows users to view the current weather for their location, search for weather in other cities, and save their favorite cities for easy access. The application uses the OpenWeatherMap API to fetch weather data and displays it in an easy-to-read format. The interface is built using React and includes a button to toggle a list of favorite cities, a search bar to look up weather in specific locations, and a button to add the current location to the list of favorites. The project aims to provide a simple and user-friendly way for users to access weather information for their current location and other cities of interest.
 
+# Project Overview
+
+![task](https://user-images.githubusercontent.com/105884159/229341707-106a76ef-dad5-41a3-b7cb-893b632d8795.png)
+
 # hosted link
 
 https://nowfloats-task24.netlify.app/
